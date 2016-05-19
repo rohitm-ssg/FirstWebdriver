@@ -10,7 +10,7 @@ public class EntryPoint {
 	     Class[] classes = new Class[]{AjaxAutoSuggest.class,Cache.class,NewTest.class};
 	     testng.setTestClasses(classes);
 	     testng.run();
-		
+		//return..;
 	}
 
 }
