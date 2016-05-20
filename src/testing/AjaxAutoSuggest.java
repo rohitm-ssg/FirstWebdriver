@@ -14,6 +14,7 @@ public class AjaxAutoSuggest {
  
 	WebDriver d1 = new FirefoxDriver();
 	// went fly..............
+	// mmmmmmmmm
 	@BeforeTest public void setup() throws Exception { 
 		//d1.manage().window().maximize(); 
 		d1.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS); 
